@@ -1,4 +1,4 @@
-package com.tasks.PrintLinkedList;
+package com.tasks.algorithms.PrintLinkedList;
 
 public class PrintLinkedList {
 

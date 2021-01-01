@@ -1,4 +1,4 @@
-package com.tasks.LeftRotate;
+package com.tasks.algorithms.LeftRotate;
 
 import java.util.Arrays;
 import java.util.List;

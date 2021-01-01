@@ -1,4 +1,4 @@
-package com.tasks.HourGlassSum;
+package com.tasks.algorithms.HourGlassSum;
 
 public class HourGlassSum {
     public static void main(String[] args) {

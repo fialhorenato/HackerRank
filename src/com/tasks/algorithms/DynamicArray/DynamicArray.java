@@ -1,4 +1,4 @@
-package com.tasks.DynamicArray;
+package com.tasks.algorithms.DynamicArray;
 
 import java.util.ArrayList;
 import java.util.Collections;
