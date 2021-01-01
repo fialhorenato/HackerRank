@@ -15,7 +15,7 @@ public class HourGlassSum {
         System.out.println(result);
     }
 
-    static int hourglassSum(int[][] arr) {
+    public static int hourglassSum(int[][] arr) {
         int biggestSum = Integer.MIN_VALUE;
         for (int i = 0; i < arr.length - 2; i++) {
             for (int j = 0; j < arr[i].length - 2; j++) {
